@@ -1,0 +1,218 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sat Aug 06 17:36:47 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000402
+    .config_2007_MAYORA.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000204      
+                            0x002007    0x002007      
+            515 out of 4230 program addresses used, program memory utilization is 12%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   ACTIVO   0x000021    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    BUCLE   0x0000b9    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   BUCLE1   0x000033    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   BUCLE2   0x000037    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     CERO   0x0000e4    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    CINCO   0x0000f3    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   CINCO1   0x000146    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD0   0x000081    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD1   0x000084    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD2   0x000087    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD3   0x00008a    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD4   0x00008d    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD5   0x000090    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD6   0x000093    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD7   0x000096    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD8   0x000099    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD9   0x00009c    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                COMPROBAR   0x000108    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+               COMPROBAR2   0x000169    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                CONVERTIR   0x00004c    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   CUATRO   0x0000f0    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  CUATRO1   0x000140    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG1   0x00018a    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG2   0x000190    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG3   0x000196    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG4   0x00019c    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG5   0x0001a2    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG6   0x0001a8    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG7   0x0001ae    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG8   0x0001b4    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                      DOS   0x0000ea    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DOS1   0x000134    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  EMPIEZA   0x0000bc    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  ESPERAR   0x000162    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                      FIN   0x0001ba    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  GRABADO   0x000013    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   INICIO   0x00009f    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    LISTO   0x000005    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  MOSTRAR   0x000017    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+              NOHACERNADA   0x00004a    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    NUEVE   0x0000ff    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   NUEVE1   0x00015e    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  NUMERAL   0x000102    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     OCHO   0x0000fc    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    OCHO1   0x000158    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                ORDENADOS   0x00003e    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  ORDENAR   0x000031    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+    R1Decima_BucleExterno   0x0001fb    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+   R1Decima_BucleExterno2   0x0001f9    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+    R1Decima_BucleInterno   0x0001fd    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+        R1ms_BucleExterno   0x0001e5    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+        R1ms_BucleInterno   0x0001e7    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+                    RESET   0x000000    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+            RetardoMicros   0x0001d1    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+        Retardo_100micros   0x0001cb    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+            Retardo_100ms   0x0001d7    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+         Retardo_10micros   0x0001be    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+             Retardo_10ms   0x0001dd    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardo_10s   0x0001ef    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+          Retardo_1Decima   0x0001f8    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardo_1ms   0x0001e3    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+               Retardo_1s   0x0001f5    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+        Retardo_200micros   0x0001c8    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+            Retardo_200ms   0x0001d5    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+         Retardo_20micros   0x0001d0    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+             Retardo_20ms   0x0001db    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardo_20s   0x0001ed    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardo_2ms   0x0001e1    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+               Retardo_2s   0x0001f3    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+          Retardo_4micros   0x0001c4    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+        Retardo_500micros   0x0001c5    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+            Retardo_500ms   0x0001f7    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+         Retardo_50micros   0x0001cd    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+             Retardo_50ms   0x0001d9    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+          Retardo_5micros   0x0001c3    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardo_5ms   0x0001df    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+               Retardo_5s   0x0001f1    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardos_ms   0x0001e4    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+            Rmicros_Bucle   0x0001d2    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+                     SEIS   0x0000f6    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    SEIS1   0x00014c    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    SIETE   0x0000f9    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   SIETE1   0x000152    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                 SIETESEG   0x000057    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  TECLADO   0x0000c1    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     TRES   0x0000ed    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    TRES1   0x00013a    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                      UNO   0x0000e7    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     UNO1   0x00012e    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   VOLVER   0x000010    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  VOLVER3   0x000051    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  VOLVER4   0x00004f    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    RESET   0x000000    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    LISTO   0x000005    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   VOLVER   0x000010    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  GRABADO   0x000013    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  MOSTRAR   0x000017    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   ACTIVO   0x000021    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  ORDENAR   0x000031    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   BUCLE1   0x000033    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   BUCLE2   0x000037    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                ORDENADOS   0x00003e    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+              NOHACERNADA   0x00004a    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                CONVERTIR   0x00004c    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  VOLVER4   0x00004f    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  VOLVER3   0x000051    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                 SIETESEG   0x000057    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD0   0x000081    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD1   0x000084    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD2   0x000087    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD3   0x00008a    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD4   0x00008d    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD5   0x000090    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD6   0x000093    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD7   0x000096    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD8   0x000099    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     COD9   0x00009c    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   INICIO   0x00009f    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    BUCLE   0x0000b9    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  EMPIEZA   0x0000bc    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  TECLADO   0x0000c1    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     CERO   0x0000e4    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                      UNO   0x0000e7    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                      DOS   0x0000ea    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     TRES   0x0000ed    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   CUATRO   0x0000f0    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    CINCO   0x0000f3    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     SEIS   0x0000f6    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    SIETE   0x0000f9    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     OCHO   0x0000fc    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    NUEVE   0x0000ff    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  NUMERAL   0x000102    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                COMPROBAR   0x000108    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     UNO1   0x00012e    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DOS1   0x000134    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    TRES1   0x00013a    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  CUATRO1   0x000140    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   CINCO1   0x000146    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    SEIS1   0x00014c    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   SIETE1   0x000152    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                    OCHO1   0x000158    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                   NUEVE1   0x00015e    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                  ESPERAR   0x000162    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+               COMPROBAR2   0x000169    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG1   0x00018a    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG2   0x000190    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG3   0x000196    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG4   0x00019c    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG5   0x0001a2    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG6   0x0001a8    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG7   0x0001ae    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                     DIG8   0x0001b4    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+                      FIN   0x0001ba    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\MAYORA.asm
+         Retardo_10micros   0x0001be    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+          Retardo_5micros   0x0001c3    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+          Retardo_4micros   0x0001c4    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+        Retardo_500micros   0x0001c5    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+        Retardo_200micros   0x0001c8    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+        Retardo_100micros   0x0001cb    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+         Retardo_50micros   0x0001cd    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+         Retardo_20micros   0x0001d0    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+            RetardoMicros   0x0001d1    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+            Rmicros_Bucle   0x0001d2    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+            Retardo_200ms   0x0001d5    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+            Retardo_100ms   0x0001d7    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+             Retardo_50ms   0x0001d9    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+             Retardo_20ms   0x0001db    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+             Retardo_10ms   0x0001dd    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardo_5ms   0x0001df    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardo_2ms   0x0001e1    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardo_1ms   0x0001e3    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardos_ms   0x0001e4    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+        R1ms_BucleExterno   0x0001e5    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+        R1ms_BucleInterno   0x0001e7    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardo_20s   0x0001ed    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+              Retardo_10s   0x0001ef    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+               Retardo_5s   0x0001f1    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+               Retardo_2s   0x0001f3    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+               Retardo_1s   0x0001f5    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+            Retardo_500ms   0x0001f7    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+          Retardo_1Decima   0x0001f8    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+   R1Decima_BucleExterno2   0x0001f9    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+    R1Decima_BucleExterno   0x0001fb    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+    R1Decima_BucleInterno   0x0001fd    program     static C:\Users\carlos\Desktop\Lab de micro\PRACTICAS\PRACTICA #4\TAREA 4-TECLADO (con retardos cortos) - copia\RETARDOS.inc
+
+
